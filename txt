@@ -13,6 +13,7 @@ kubectl get service
 minikube service nginx-server
 kubectl get namespaces
 kubectl create namespace my-namespace
+kubectl apply -f ./
 
 
 
