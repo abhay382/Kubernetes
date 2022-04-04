@@ -9,3 +9,4 @@ kubectl describe deployment nginx-server
 kubectl edit deployment
 kubectl delete deployment nginx-server
 kubectl apply yaml file
+kubectl get service
