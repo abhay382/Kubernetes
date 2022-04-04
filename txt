@@ -3,3 +3,4 @@ minkikube Dashoard
 kubectl get pod
 kubectl get service
 kubectl get deployment
+kubectl create deployment nginx-server --image=nginx
