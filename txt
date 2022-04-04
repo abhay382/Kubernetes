@@ -10,3 +10,4 @@ kubectl edit deployment
 kubectl delete deployment nginx-server
 kubectl apply yaml file
 kubectl get service
+minikube service nginx-server
