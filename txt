@@ -7,3 +7,4 @@ kubectl create deployment nginx-server --image=nginx
 kubectl get replicaset
 kubectl describe deployment nginx-server
 kubectl edit deployment
+kubectl delete deployment nginx-server
